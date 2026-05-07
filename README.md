@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻Enterprise Windows Server Hybrid Infrastructure Project:</h2>
 
-- <b>Python</b>
+- <b></b>
   - [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/Enterprise-Windows-Server-Hybrid-Infrastructure-Project-)
  
 <h2>🔒👨‍💻 Enterprise SIEM & Network Security with Splunk Project:</h2>
