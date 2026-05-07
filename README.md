@@ -3,7 +3,7 @@
 <h2> 👨‍💻Enterprise Windows Server Hybrid Infrastructure Project:</h2>
 
 - <b>Python</b>
-  - [Click HERE to see Enterprise Windows Server Hybrid Infrastructure Project Phases )](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/Enterprise-Windows-Server-Hybrid-Infrastructure-Project-)
  
 <h2>🔒👨‍💻 Enterprise SIEM & Network Security with Splunk Project:</h2>
 - <b> Deployed a full-scale Enterprise SIEM & Security Lab featuring Splunk Enterprise, Check Point R82, and Cisco CSR1000v to master real-world log ingestion, network segmentation, and proactive threat monitoring.</b>
