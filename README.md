@@ -15,7 +15,9 @@
 
 
 
-<h2> 📶Enterprise Network Infrastructure (CCNA) Project : COMING SOON TO GITHUB</h2>
+<h2> 📶Enterprise Network Infrastructure (CCNA) Project:</h2>
+
+- [Click HERE to see the Enterprise Network Infrastructure (CCNA) Project](https://github.com/malachibenton/Enterprise-Network-Infrastructure-CCNA-Project)
 
 <h2> 📜Certifications:</h2>
 
