@@ -2,11 +2,10 @@
 
 <h2> 👨‍💻Enterprise Windows Server Hybrid Infrastructure Project:</h2>
 
-- <b></b>
-  - [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/Enterprise-Windows-Server-Hybrid-Infrastructure-Project-)
+- [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/Enterprise-Windows-Server-Hybrid-Infrastructure-Project-)
  
 <h2>🔒👨‍💻 Enterprise SIEM & Network Security with Splunk Project:</h2>
-- <b> Deployed a full-scale Enterprise SIEM & Security Lab featuring Splunk Enterprise, Check Point R82, and Cisco CSR1000v to master real-world log ingestion, network segmentation, and proactive threat monitoring.</b>
+-<b> Deployed a full-scale Enterprise SIEM & Security Lab featuring Splunk Enterprise, Check Point R82, and Cisco CSR1000v to master real-world log ingestion, network segmentation, and proactive threat monitoring </b>
 <h2> </h2>
 
 - [Check Point Firewall Analysis (with pre-lab field extraction from Check Point firewall syslog messages):](https://www.linkedin.com/posts/malachibenton_splunk-cybersecurity-socanalyst-activity-7376684710279737344--9Sf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPGRiwBtyWRLJc2LOpzFtlB11QZPohDUO4)
