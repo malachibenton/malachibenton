@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Helpdesk Technician</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Aspiring Network Security Engineer</a>
+<h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Helpdesk Technician</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Network Security Engineer</a>
 
 <h2> 👨‍💻Enterprise Windows Server Hybrid Infrastructure Project:</h2>
 
