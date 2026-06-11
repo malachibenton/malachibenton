@@ -1,8 +1,9 @@
-<h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Helpdesk Technician</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Network Security Engineer</a>
+<h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Helpdesk Technician</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Aspiring Network Security Engineer</a>
 
-<h2> 👨‍💻Enterprise Windows Server Hybrid Infrastructure Project:</h2>
+<h2> 🖧 Entry Level IT & Networking Projects:</h2>
+<b> Projects Including - Active Directory, Cisco CCNA Level Networking, Microsoft Intune and MORE!</b>
 
-- [Click HERE to see the Enterprise Windows Server Hybrid Infrastructure Project Phases](https://github.com/malachibenton/Enterprise-Windows-Server-Hybrid-Infrastructure-Project-)
+- [Click HERE to go the Entry Level IT & Networking Projects Directory](https://github.com/malachibenton/IT-and-EntryLevelNetworkiing-Projects)
  
 <h2>🔒👨‍💻 Enterprise SIEM & Network Security with Splunk Project:</h2>
 -<b> Deployed a full-scale Enterprise SIEM & Security Lab featuring Splunk Enterprise, Check Point R82, and Cisco CSR1000v to master real-world log ingestion, network segmentation, and proactive threat monitoring </b>
