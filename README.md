@@ -7,19 +7,27 @@
  
 <h2>🔒👨‍💻 Enterprise SIEM & Network Security with Splunk Project:</h2>
 -<b> Deployed a full-scale Enterprise SIEM & Security Lab featuring Splunk Enterprise, Check Point R82, and Cisco CSR1000v to master real-world log ingestion, network segmentation, and proactive threat monitoring </b>
-<h2> </h2>
+<h3></h3>
 
 - [Check Point Firewall Analysis (with pre-lab field extraction from Check Point firewall syslog messages):](https://www.linkedin.com/posts/malachibenton_splunk-cybersecurity-socanalyst-activity-7376684710279737344--9Sf?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPGRiwBtyWRLJc2LOpzFtlB11QZPohDUO4)
 - [Linux Syslog Analysis:](https://www.linkedin.com/posts/malachibenton_splunk-siem-cybersecurity-activity-7376982577234059264-kfEO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPGRiwBtyWRLJc2LOpzFtlB11QZPohDUO4)
 - [Hunting Failed Processes on Linux:](https://www.linkedin.com/posts/malachibenton_splunk-siem-cybersecurity-activity-7377031638352039936-drEZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPGRiwBtyWRLJc2LOpzFtlB11QZPohDUO4)
 - [Investigating Failed User Login Attempts:](https://www.linkedin.com/posts/malachibenton_splunk-cybersecurity-socanalyst-activity-7378401930907189249-lLIx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPGRiwBtyWRLJc2LOpzFtlB11QZPohDUO4)
 
+<h2>💡⚙️ SKILLS AND TECHNOLOGIES:</h2>
+
+- <b> Tools & IT Operations: </b> Microsoft Intune, Autopilot, Powershell Fundamentals, ServiceNow (Ticketing & SLA), PuTTY, Tera Term, Network Documentation, Technical Support, RJ45 Cable Termination. 
+- <b>Networking:</b>  OSI Model, TCP/IP, IPv4/IPv6 Subnetting, NAT/PAT, ACLs, OSPF & RIP, VLANs (SVIs, VTP, Private VLANs), Trunking, EtherChannel, HSRP, Router-on-a-Stick, DHCP, DNS, AAA, SNMP (v2c/v3), NTP. 
+- <b>Network Infrastructure & Security: </b> Cisco Catalyst Switches & Routers, Cisco ASA 5506-X, Cisco Meraki, VPNs (Cisco AnyConnect, Windows VPN), Network Device Configuration.
+- <b>Systems & Virtualization: </b> Windows Server, Active Directory, Group Policy (GPO), Microsoft Hyper-V. 
+- <b> Soft Skills:</b> Communication, Team Collaboration, Troubleshooting, Adaptability, Fast Learning.
 
 <h2> 📜Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/e9ba8f6d-de13-4e24-ac20-50f588524675/public_url)
 - [Cisco Certified Networking Associate (CCNA)](https://www.credly.com/badges/1ba6b0b9-103a-445a-918c-cee157e2ae31/public_url)
 - [CompTIA A+](https://www.credly.com/badges/b8e57075-5557-4aa1-a86c-b31ff519a292/public_url)
+
   
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,6 +36,8 @@
 
 
 [linkedin]: https://linkedin.com/in/malachibenton
+<h3></h3>
+Thanks for visting my profile!
 
 <!--
 **malachibenton/malachibenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
