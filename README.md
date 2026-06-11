@@ -1,7 +1,7 @@
 <h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Helpdesk Technician</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Aspiring Network Security Engineer</a>
 
 <h2> 🖧 Entry Level IT & Networking Projects:</h2>
-<b> Projects Include - Active Directory, Cisco CCNA Level Networking, Microsoft Intune and MORE!</b>
+<b> - Projects Include - Active Directory, Cisco CCNA Level Networking, Microsoft Intune and MORE!</b>
 
 - [Click HERE to go the Entry Level IT & Networking Projects Directory](https://github.com/malachibenton/IT-and-EntryLevelNetworkiing-Projects)
  
@@ -33,11 +33,8 @@
 
 [<img align="left" alt="Malachi Benton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
 [linkedin]: https://linkedin.com/in/malachibenton
-<h3></h3>
-Thanks for visting my profile!
+
 
 <!--
 **malachibenton/malachibenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
