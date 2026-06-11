@@ -15,11 +15,6 @@
 - [Investigating Failed User Login Attempts:](https://www.linkedin.com/posts/malachibenton_splunk-cybersecurity-socanalyst-activity-7378401930907189249-lLIx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPGRiwBtyWRLJc2LOpzFtlB11QZPohDUO4)
 
 
-
-<h2> 📶Enterprise Network Infrastructure (CCNA) Project:</h2>
-
-- [Click HERE to see the Enterprise Network Infrastructure (CCNA) Project](https://github.com/malachibenton/Enterprise-Network-Infrastructure-CCNA-Project)
-
 <h2> 📜Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/e9ba8f6d-de13-4e24-ac20-50f588524675/public_url)
