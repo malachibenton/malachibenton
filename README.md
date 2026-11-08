@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Helpdesk Technician</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Aspiring Network Security Engineer</a>
+<h1>Hi, I'm Malachi! <br/><a href="https://github.com/malachibenton">Security Tech Support</a> & <a href="https://www.linkedin.com/in/malachibenton/"> Aspiring Network Security Engineer</a>
 
 <h2> 🖧 Entry Level IT & Networking Projects:</h2>
 <b> - Projects Include - Active Directory, Cisco CCNA Level Networking, Microsoft Intune and MORE!</b>
